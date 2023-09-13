@@ -1,4 +1,3 @@
 # DASHBOARD SPOTIFY
-Proyek ini merupakan pengerjaab Data Mart dan Dashboard pada spotify, dengan itu untuk melakukan proses dalam pembuatan data mart dan dashboard dilakukan penyajian data dengan menganalisis pembuatan data mart. Proses yang dilakukan dengan mengumpulkan sumber data staging dengan tujuan untuk mengelola, menggabung data agar tidak terjadi kesalahan pada data. Setelah melakukan analisis pada data maka dilakukan pembuatan data mart untuk memenuhi tujuan dan manfaat lalu kemudian akan dilakukan pembuatan dashboard, untuk mengambil keputusan. dengan menggunakan data set dari https://www.kaggle.com/datasets/maltegrosse/8-m-spotify-tracks-genre-audio-features. 
-Pada proyek ini dikerjakan oleh : 
-+ 12S19001  – Raynaldo Silalahi
+This project involves the development of a Data Mart and Dashboard for Spotify, aiming to streamline the data presentation and analysis process. The process begins with collecting data from staging sources with the goal of managing and merging data to ensure data accuracy. Following a thorough data analysis, I proceed with creating a Data Mart to fulfill specific objectives and benefits. Subsequently, I embark on dashboard creation to facilitate decision-making. I utilize a dataset from https://www.kaggle.com/datasets/maltegrosse/8-m-spotify-tracks-genre-audio-features. 
+This project is undertaken by Raynaldo Silalahi.
